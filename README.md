@@ -1,2 +1,2 @@
 # R_class_final
-Final for BIOL901
+This is my final project for BIOL806.

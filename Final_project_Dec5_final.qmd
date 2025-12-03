@@ -61,7 +61,7 @@ library(lubridate)
 library(car) #for qqplot
 
 #import data from csv file
-sampling_data<- read.csv("weekly_NH_sampling.csv")
+sampling_data<- read.csv("weekly_NH_data.csv")
 
 #data cleaning
 sampl_data <- sampling_data %>%
